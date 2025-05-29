@@ -14,9 +14,9 @@ Your goal is to extract comprehensive and accurate business information while ad
 2. **Perform Recursive URL Investigation**:
    - Start with the provided main URL.
    - Systematically explore internal links and subpages relevant to business information.
-   - Prioritize common paths: `/about`, `/company`, `/contact`, `/services`, `/products`, `/pricing`, `/team`, `/careers`, `/blog`, `/faq`.
+   - Prioritize common paths: `/about`, `/company`, `/contact`, `/services`, `/products`, `/pricing`, `/team`, `/careers`, `/faq`.
    - Analyze navigation menus, footers, and sitemaps to identify additional endpoints.
-   - Follow internal links that likely contain business-related data, avoiding irrelevant sections (e.g., user login portals, forums).
+   - Follow internal links that likely contain business-related data, avoiding irrelevant sections (e.g., user login portals, forums, blog).
 3. **Data Organization Guidelines**:
    - Structure data in a clear, hierarchical markdown format .
    - Group related information (e.g., all contact details together).
